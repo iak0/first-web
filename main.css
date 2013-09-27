@@ -1,0 +1,73 @@
+body{
+	background-color:#fff; 
+	color:gray;
+	background: url('sos.png');
+}
+
+.big{
+	text-align: center;
+	font-size: 50px;
+	height: 80px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+} 
+
+.sub{
+	text-align: center;
+	font-family:"Arial";
+	height: 40px;
+	width: 720px;
+	margin-left: auto;
+	margin-right: auto;
+} 
+
+.image{
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 20px;
+	border-color: #e3e3e3;
+}
+
+.main{
+	text-align: center;
+	font-family:"Arial";
+	height: 400px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.footer{
+	text-align: center;
+	position:relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+}
+
+.navigation{
+	text-align: center;
+	font-family:"Arial";
+	font-size: 16px;
+	height: 20px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.navigation a{
+	text-decoration:none; 
+	font-style:normal;
+}
+
+.post{
+	font-size:5px;
+}
+
+a:link {text-decoration:none}
+a:visited {text-decoration:none; color:gray;}
+a:hover {text-decoration:none; color:#aaa;}
+a:active {text-decoration:underline; color:#aaa;}
